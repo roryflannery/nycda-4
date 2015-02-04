@@ -1,0 +1,16 @@
+body
+	{text-align: center;
+	font-family:'Lobster',cursive;}
+
+.blah{
+	text-align: left;
+	background-color: rgb(84,101,209);
+	margin: 8px;
+}
+
+.head{
+	color: orange;
+	background-color: red;
+}
+
+
